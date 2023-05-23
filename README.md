@@ -11,4 +11,4 @@ A python program that generates programming quotes and jokes.
 ## Fork urls
 - `contributor-1`: [quotes-bar-b](url-1)
 - `contributor-2`: [quotes-Doucouré-d(https://github.com/Sidy13/quotes-Doucoure-D.git)
-- `contributor-3`: [quotes-Semlali-d(git@github.com:issonotakashi/quotes-Semlali-D.git)
+- `contributor-3`: [quotes-Semlali-d(https://github.com/issonotakashi/quotes-Semlali-D.git)
